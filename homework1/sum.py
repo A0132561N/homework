@@ -1,5 +1,5 @@
 """
-Problem: Implement a function that takes two numbers and output their sum.
+Problem: Implement a function that takes two numbers and returns their sum.
 """
 
 
