@@ -9,5 +9,4 @@ def sum(x: float, y: float) -> float:
     :param y: The second input.
     return: sum of x and y
     """
-    # Your implementation goes here.
-    pass
+    return x + y
